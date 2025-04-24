@@ -1,3 +1,4 @@
 flask
 transparent_background
 Pillow
+gradio
